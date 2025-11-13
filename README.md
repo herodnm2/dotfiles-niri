@@ -1,10 +1,1 @@
-# dotfiles-niri
-# dotfiles-niri
-# dotfiles-niri
-# dotfiles-niri
-# dotfiles-niri
-# dotfiles-niri
-# dotfiles-niri
-# dotfiles-niri
-# dotfiles-niri
-# dotfiles-niri
+requirements : alacritty fastfetch fuzzel kitty mako micro niri noctalia-shell waybar
